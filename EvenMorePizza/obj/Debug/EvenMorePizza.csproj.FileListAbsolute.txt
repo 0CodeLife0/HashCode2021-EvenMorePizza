@@ -1,0 +1,10 @@
+D:\Learning\Stuff\YT\5\App\EvenMorePizza\EvenMorePizza\bin\Debug\EvenMorePizza.exe.config
+D:\Learning\Stuff\YT\5\App\EvenMorePizza\EvenMorePizza\bin\Debug\EvenMorePizza.exe
+D:\Learning\Stuff\YT\5\App\EvenMorePizza\EvenMorePizza\bin\Debug\EvenMorePizza.pdb
+D:\Learning\Stuff\YT\5\App\EvenMorePizza\EvenMorePizza\obj\Debug\EvenMorePizza.csprojAssemblyReference.cache
+D:\Learning\Stuff\YT\5\App\EvenMorePizza\EvenMorePizza\obj\Debug\EvenMorePizza.csproj.CoreCompileInputs.cache
+D:\Learning\Stuff\YT\5\App\EvenMorePizza\EvenMorePizza\obj\Debug\EvenMorePizza.exe
+D:\Learning\Stuff\YT\5\App\EvenMorePizza\EvenMorePizza\obj\Debug\EvenMorePizza.pdb
+D:\Learning\Stuff\YT\5\App\EvenMorePizza\EvenMorePizza\bin\Debug\Newtonsoft.Json.dll
+D:\Learning\Stuff\YT\5\App\EvenMorePizza\EvenMorePizza\bin\Debug\Newtonsoft.Json.xml
+D:\Learning\Stuff\YT\5\App\EvenMorePizza\EvenMorePizza\obj\Debug\EvenMorePizza.csproj.CopyComplete
