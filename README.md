@@ -1,6 +1,8 @@
 # HashCode2021-EvenMorePizza
 My solution to the Google coding competition HashCode 2021's practice problem - Even More Pizza
 
+Video explanation of this solution and the problem statement: https://youtu.be/STIRFdfpIqQ
+
 ---
 
 The score of this solution add up to (702,288,546)
